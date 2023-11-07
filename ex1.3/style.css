@@ -1,0 +1,16 @@
+body {
+	background-color: darksalmon;
+	padding: 20px;
+	font-family: fantasy;
+	font-size: large;
+	font-weight: 400;
+}
+.main {
+	background-color: darkorchid;
+	color: blanchedalmond;
+	height: 90vh;
+	text-align: center;
+}
+h1 {
+	padding: 10px;
+}
